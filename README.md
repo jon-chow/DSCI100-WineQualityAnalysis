@@ -1,3 +1,3 @@
-# dsci100project
-
-pillow <- read_csv("/downloads/SaYoPillow.csv")
+# DSCI 100 Project
+#### Section 006, Group 042
+Wine Quality
